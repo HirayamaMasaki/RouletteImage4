@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RouletteImage</string>
+    <string name="textView">ルーレット画像メイカー</string>
+    <string name="itemName">項目名</string>
+    <string name="items">項目数</string>
+    <string name="itemRate">比率</string>
+    <string name="button">作成</string>
+    <string name="text2">ルーレット画面</string>
+    <string name="text3">ルーレット名</string>
+    <string name="button2">回す</string>
+    <string name="button3">止める</string>
+    <string name="button4">戻る</string>
+</resources>
