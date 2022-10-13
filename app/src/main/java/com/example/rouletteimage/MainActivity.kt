@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
 
 //        val myView = MyView(this)
 //        setContentView(myView)
-//
+
 
         val editTextTextPersonName = findViewById<EditText>(R.id.editTextTextPersonName)
         val editTextNumber1 = findViewById<EditText>(R.id.editTextNumber1)
